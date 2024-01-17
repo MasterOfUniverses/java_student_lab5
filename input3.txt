@@ -1,0 +1,15 @@
+http://angle.example.com/airport.php
+https://www.example.com/?anger=behavior#afternoon
+http://example.edu/?angle=addition
+https://example.com/
+https://apparel.example.org/attack
+http://www.example.net/#believe
+http://www.example.com/?book=bit&birds=board
+https://ya.ru/
+https://vk.com/
+sftp://gitlab.devops.ru/
+http://127.0.0.1:40080/
+vk.com
+http://admin:nopassword@www.example.net:80/#believe
+http://admin@www.example.com/?book=bit&birds=board
+localhost
